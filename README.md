@@ -15,7 +15,7 @@
 ### ETC
 ![KUBE](https://img.shields.io/badge/KUBE-ffffff?style=for-the-badge&logo=kubernetes&logoColor=blue)
 ![DOCKER](https://img.shields.io/badge/DOCKER-ffffff?style=for-the-badge&logo=docker&logoColor=blue)
-![GRAPHQL](https://img.shields.io/badge/GRAPHQL-8b00ff?style=for-the-badge&logo=graphql&logoColor=green)
+![GRAPHQL](https://img.shields.io/badge/GRAPHQL-ffffff?style=for-the-badge&logo=graphql&logoColor=purple)
 
 
 
