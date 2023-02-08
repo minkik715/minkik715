@@ -19,7 +19,8 @@
 ![RABBITMQ](https://img.shields.io/badge/RABBITMQ-ffffff?style=for-the-badge&logo=rabbitmq&logoColor=orange)
 
 
-
+### NOW STUDYING
+BLOCK CHAING
 <!--
 **rlaalsrl715/rlaalsrl715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
