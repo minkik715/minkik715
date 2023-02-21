@@ -20,7 +20,7 @@
 
 
 ### NOW STUDYING
-BLOCK CHAING
+BLOCK CHAIN
 
  ![](https://gh-hits.nomadcoders.workers.dev/view?username=rlaalsrl715)
 <!--
