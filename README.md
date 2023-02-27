@@ -22,6 +22,9 @@
 ### NOW STUDYING
 BLOCK CHAIN
 
+BLOG
+https://codingstudytrace.tistory.com/
+
  ![](https://gh-hits.nomadcoders.workers.dev/view?username=rlaalsrl715)
 <!--
 **rlaalsrl715/rlaalsrl715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
