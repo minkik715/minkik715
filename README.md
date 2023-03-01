@@ -20,7 +20,7 @@
 
 
 ### NOW STUDYING
-BLOCK CHAIN
+BLOCK CHAIN WITH GO
 
 BLOG
 https://codingstudytrace.tistory.com/
