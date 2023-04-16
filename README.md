@@ -27,7 +27,7 @@ https://codingstudytrace.tistory.com/
 
  ![](https://gh-hits.nomadcoders.workers.dev/view?username=minkik715)
 <!--
-**rlaalsrl715/rlaalsrl715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**minkik715/minkik715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaalsrl715)](https://github.com/rlaalsrl715/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkik715)](https://github.com/minkik715/github-readme-stats)
