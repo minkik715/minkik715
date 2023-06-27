@@ -20,7 +20,7 @@
 
 
 ### NOW STUDYING
-Network & JAVA & SPRING ADVANCE & REACT
+Network & REACT 
 
 BLOG
 https://codingstudytrace.tistory.com/
