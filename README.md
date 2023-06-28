@@ -20,7 +20,7 @@
 
 
 ### NOW STUDYING
-Network & REACT 
+Network & React 
 
 BLOG
 https://codingstudytrace.tistory.com/
