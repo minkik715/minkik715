@@ -3,7 +3,6 @@
 
 ### LANGUAGE 
 ![JAVA](https://img.shields.io/badge/JAVA-ffffff?style=flat&logo=OpenJDK&logoColor=blue")
-![C++](https://img.shields.io/badge/C++-ffffff?style=flat&logo=c%2B%2B&&logoColor=blue")
 ![KOTLIN](https://img.shields.io/badge/KOTLIN-ffffff?style=flat&logo=kotlin&logoColor=white")
 ![PYTHON](https://img.shields.io/badge/PYTHON-ffffff?style=flat&logo=python&logoColor=white")
 ![JavaScript](https://img.shields.io/badge/JS-ffffff?style=flat&logo=JavaScript&logoColor=white")
