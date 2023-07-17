@@ -19,7 +19,7 @@
 
 
 ### NOW STUDYING
-Network & Spring 
+Spring 
 
 BLOG
 https://codingstudytrace.tistory.com/
