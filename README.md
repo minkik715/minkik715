@@ -19,7 +19,7 @@
 
 
 ### NOW STUDYING
-Spring 
+C++ 내실다지기.. 기초부터다시..
 
 BLOG
 https://codingstudytrace.tistory.com/
