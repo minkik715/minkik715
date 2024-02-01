@@ -19,7 +19,7 @@
 
 
 ### NOW STUDYING
-AOP
+Algorithm & sql
 
 BLOG
 https://codingstudytrace.tistory.com/
