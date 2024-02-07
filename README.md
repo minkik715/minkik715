@@ -19,7 +19,7 @@
 
 
 ### NOW STUDYING
-Algorithm & sql
+Algorithm & sql & CS
 
 BLOG
 https://codingstudytrace.tistory.com/
