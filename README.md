@@ -19,7 +19,7 @@
 
 
 ### NOW STUDYING
-Algorithm & sql & CS
+AWS & MSA & Traffic
 
 BLOG
 https://codingstudytrace.tistory.com/
